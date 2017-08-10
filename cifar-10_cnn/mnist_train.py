@@ -4,7 +4,7 @@ from keras.datasets import cifar10
 import mnist_inference as infer
 import numpy as np
 
-MODEL_SAVE_PATH = "./"
+MODEL_SAVE_PATH = "./model_saved/"
 MODEL_NAME = 'model.ckpt'
 
 REGULARIZATION_RATE = 0.0001
