@@ -1,4 +1,5 @@
 # NN_practices
+Mainly from 《TensorFlow实战Google深度学习框架》
 ## CNN for vifar-10
 - problem: 40% accuracy for 10 epochs
 - Possible Improvements(TODO):
